@@ -1,0 +1,33 @@
+@media(max-width: 1100px)  {
+/*Contact Container*********************/
+.contact-container {
+    /* border: 1px solid red; */
+    width: 100%;
+}
+
+.float-right {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    /* border: 1px solid red; */
+    width: 100%;
+    }
+
+.contact-info {
+    margin: auto;
+}
+/*End of Contact Container*****************/
+
+/*Skills Container*********************/    
+.skill-names {
+    flex-direction: row;
+    justify-content: space-between;
+}
+.skill-block-3 {
+    margin-right: 35px;
+}
+/*End of Skills Container*****************/
+
+}
+
+

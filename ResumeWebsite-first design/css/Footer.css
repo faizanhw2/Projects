@@ -1,0 +1,42 @@
+/*Footer */
+.footer {
+    padding-bottom: 15px;
+   /*border: .5px solid red;*/
+
+    width: 100%;
+    align-content: flex-end;
+    letter-spacing: .02rem;
+    background-color: rgb(243, 243, 243);
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.author p {
+    text-align: center;
+}
+
+.copyright {
+    /*border: .5px solid blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 35px;
+}
+
+.footer-icon {
+    margin-left: 20px;
+    font-size: 2.rem;
+    color: rgb(148, 148, 148);
+}
+
+.copyright i:hover {
+    color: rgb(28, 135, 243);
+    opacity: 100%;
+    transition: all .6s;
+}
