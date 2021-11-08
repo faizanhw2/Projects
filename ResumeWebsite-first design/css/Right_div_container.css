@@ -32,7 +32,7 @@
 }
 .education-school-info .mg-bttm {
     margin-bottom: 5px;
-    /* transition: all 2s; */
+    transition: all 2s;
 }
 .education-text-bold {
     font-weight: bold;
@@ -95,12 +95,11 @@
     background-color: rgb(243, 243, 243);
     margin: 25px auto 0 auto;    
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    /* transition: all 2s; */
+    transition: all 2s;
 }
 
 .card-image-1, .card-image-2 {
     width: 40%;
-    /* transition: all 2s; */
 }
 
 .card-text-header-1, .card-text-header-2 {
